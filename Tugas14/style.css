@@ -1,0 +1,42 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.container {
+    display: flex;
+}
+.box {
+    width: 200px;
+    padding: 30px;
+
+}
+.box1{
+    background: #1dd0ad;
+}
+.box2{
+    background: #2fcc72;
+}
+.box3{
+    background: #3498db;
+}
+.box4{
+    background: #9b59b6;
+}
+.box5{
+    background: #34495e;
+}
+.box6{
+    background: #f1c40f;
+}
+.box7{
+    background: #e67e22;
+}
+.box8{
+    background: #e74c3c;
+}
+.box9{
+    background: #95a5a6;
+}
+.box10{
+    background: #7f8c8d;
+}

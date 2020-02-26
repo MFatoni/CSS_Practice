@@ -1,0 +1,17 @@
+p {
+    background: grey;
+}
+p.p1 {
+    background: orange;
+}
+p.p2 {
+    background: blue;
+    color: white;
+}
+p.p3 {
+    background: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+p.p4 {
+    font-weight: bold;
+}

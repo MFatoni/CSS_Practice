@@ -1,0 +1,10 @@
+* {
+    padding:0;
+    margin: 0;
+}
+body, html {
+    background: #d2d4d2;
+}
+body > .grid {
+    height: 100%;
+}
